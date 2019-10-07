@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=KaushikIndukuri
+comment0.text=\n\ The\ class\ KaushikIndukuri\ is\ a\ subclass\ of\ the\ Student\ class\n\ \n\ @Kaushik\ Indukuri\n\ @09/18/2019\n
+comment1.params=f\ l\ r\ s
+comment1.target=KaushikIndukuri(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ the\ KaushikIndukuri\ class.\n\ Constructors\ have\ the\ same\ name\ as\ the\ class;\ this\ constructor\ sets\ the\ parameters\ and\ the\ variables\ required\ for\ later\n\ There\ is\ a\ second\ constructor\ that\ we\ called\ that\ would\ initalize\ different\ conditions\ because\ it\ had\ different\ parameters\n\ The\ Constructors\ set\ up\ the\ first\ and\ last\ name\ as\ well\ as\ my\ seat\ and\ row\ number;\ they\ also\ call\ the\ files\ \n\ required\ for\ the\ seating\ chart\n\ paramters\ were\ different\ than\ the\ first\n\ @param\ String\ f\ (firstname)\n\ @param\ String\ l\ (lastname)\n\ @param\ int\ r\ (row\ of\ seating\ arrangement)\n\ @param\ int\ s\ (seat\ number\ within\ row\ seating\ arrangement)\n\ \n
+comment2.params=r\ s
+comment2.target=KaushikIndukuri(int,\ int)
+comment3.params=
+comment3.target=KaushikIndukuri()
+comment3.text=\n\ Default\ constructor\n\ The\ row\ and\ seat\ variable\ set\ up\ where\ the\ image\ if\ each\ student\ is.\ The\ variables\ determine\ which\ seat\ teh\ student\ is\ in.\n\ Example\:\ row\ 1\ and\ seat\ 1\ would\ be\ the\ upper\ left\ corner\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\n\ Act\ -\ do\ whatever\ the\ KaushikIndukuri\ actor\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n\ It\ will\ only\ carry\ out\ the\ movement\ and\ answer\ questions\ once\ it\ has\ been\ "clicked"\ on.\ \n
+comment5.params=
+comment5.target=void\ getName()
+comment5.text=\n\ Prints\ the\ first\ and\ last\ name\ to\ the\ console\n\ Uses\ the\ first\ name\ and\ last\ name\ variables\ to\ print\ the\ name\n
+comment6.params=
+comment6.target=void\ answerQuestion()
+comment6.text=\n\ This\ method\ creates\ a\ question\ and\ answer\ interface\ where\ the\ user\ can\ learn\ more\ information\ about\ the\ student.\n\ It\ also\ asks\ if\ the\ student\ could\ sit\ down\ after\ the\ question\ and\ answer\ phase\ is\ finished\n\ \n\ The\ method\ is\ looped,\ and\ there\ is\ also\ questioning\ about\ the\ Java\ concepts\ we\ learned\ over\ summer.\n
+comment7.params=
+comment7.target=void\ randomMovement()
+comment7.text=\n\ This\ is\ the\ movement\ method\ used\ for\ KaushikIndukuri\n\ It\ will\ make\ the\ character\ randomly\ move\ around\ the\ screen\ and\ then\ change\ the\ transparency\ and\ size\ every\ time\ it\ jumps\ around\ the\ screen\n\ uses\ a\ 2d\ array\ to\ make\ the\ image\ a\ random\ size\ as\ it\ appears\ randomly\ around\ the\ screen\ \n
+comment8.params=s
+comment8.target=void\ myHobby(java.lang.String)
+numComments=9
